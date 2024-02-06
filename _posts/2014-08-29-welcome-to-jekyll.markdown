@@ -25,10 +25,10 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 {% highlight js %}
 
 <footer class="site-footer">
- <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
+ <a class="subscribe" href="https://www.linkedin.com/in/isaac-andr%C3%A9s-rivera-delgado-990b4a207/" target="_blank"><span class="tooltip">Conecta conmigo en Linkedin <i class="fa fa-rss"></i></span></a>
   <div class="inner">a
-   <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{ site.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.</section>
-   <section class="poweredby">Made with <a href="http://jekyllrb.com"> Jekyll</a></section>
+   <section class="copyright">Copyright <a href="mailto:{{ site.email}}">{{ site.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; Todos los derechos reservados.</section>
+   <section class="poweredby">Hecho en <a href="http://jekyllrb.com"> Jekyll</a></section>
   </div>
 </footer>
 {% endhighlight %}
