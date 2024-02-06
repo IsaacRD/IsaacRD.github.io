@@ -2,7 +2,7 @@
 layout: post
 title:  "Test 2"
 date:   2014-11-30 14:34:25
-categories: mediator feature
+categories: mediator normal
 tags: normal
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
