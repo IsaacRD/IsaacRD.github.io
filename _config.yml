@@ -4,9 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Isaac Rivera D. / Docs"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   isaac.riverad14@gmail.com
 
 email: a-mail@mail.mail
 #blog logo
