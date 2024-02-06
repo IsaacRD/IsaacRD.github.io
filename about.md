@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Linkedin
+permalink: https://www.linkedin.com/in/isaac-andr%C3%A9s-rivera-delgado-990b4a207/
 ---
 
 A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
