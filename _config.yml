@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "email:"
 
 email: a-mail@mail.mail
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/df_logo.png"
 float_logo: true # true, false (default)
 
 # blog cover
@@ -35,8 +35,8 @@ twitter_handle: '@dirkfabisch'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
+    url:	https://x.com/isaacrd14?t=gL_-izCuQ8dK7tRr_ey36A&s=09
+    desc: Sigueme en X
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
@@ -49,8 +49,8 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
+    url:	https://github.com/Isaacrd14
+    desc:	Sigueme en github
     share_url:
     share_title:
     share_link:
