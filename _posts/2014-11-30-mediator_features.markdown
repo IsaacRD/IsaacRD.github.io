@@ -2,8 +2,8 @@
 layout: post
 title:  "8 Recomendaciones Clave en Pentesting y Ciberseguridad para Asesorar a un Cliente"
 date:   2024-02-06 23:45:00
-categories: mediator feature
-tags: featured
+categories: mediator normal
+tags: normal
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
 ---
