@@ -6,9 +6,9 @@ gems:
 # Site settings
 title: "Isaac Rivera D. / Docs"
 description: > # this means to ignore newlines until "email:"
-   isaac.riverad14@gmail
+   isaac.riverad14@gmail.com
 
-email: isaac.riverad14@gmail.co
+email: isaac.riverad14@gmail.com # para los correos automaticos
 #blog logo
 logo: "/assets/images/df_logo.png"
 float_logo: true # true, false (default)
