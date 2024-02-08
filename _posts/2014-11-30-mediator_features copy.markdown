@@ -4,8 +4,8 @@ title:  "Las API y su importancia en la ciberseguridad"
 date:   2024-02-08 23:45:00
 categories: mediator feature
 tags: featured
-image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
-image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
+image: /assets/article_images/2014-11-30-mediator_features/api.jpg
+image2: /assets/article_images/2014-11-30-mediator_features/api-mobile.jpg
 ---
 >En el mundo de la ciberseguridad y las API, estas tienen una gran relevancia, ya que facilitan la comunicación entre sistemas gracias a su interoperabilidad, escalabilidad y flexibilidad, así como a su facilidad para colaborar e integrarse con terceros.
 
